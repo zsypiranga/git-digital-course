@@ -5,4 +5,4 @@
 * Comando Git Push
 * Comando Git Pull
 * Comando Git Fetch
-* Comando Git Teste
+
