@@ -4,4 +4,5 @@
 ## Salvando alterações no GIT
 * Comando Git Push
 * Comando Git Pull
-* Comando Git Fetch 
+* Comando Git Fetch
+* Comando Git Teste
